@@ -10,7 +10,7 @@ Learn Ethereum from scratch
 测试网络：Hardhat node、sepolia测试网
 
 
-系列文章
+一. 系列文章
 
 [1. Remix编写、编译、部署、测试Solidity ERC20合约 - 基础篇](https://blog.csdn.net/tianma2012/article/details/156286771)
 
@@ -45,3 +45,6 @@ Learn Ethereum from scratch
 [16. web3js结合sepolia测试网](https://blog.csdn.net/tianma2012/article/details/156392342)
 
 [17. 总结](https://blog.csdn.net/tianma2012/article/details/156360854)
+
+二. 系列视频
+[系列视频](https://www.bilibili.com/video/BV1SGzEBeEoH/?vd_source=28ba7751c6f03bc3c47fc2377e1bc424)
