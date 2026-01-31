@@ -46,5 +46,8 @@ Learn Ethereum from scratch
 
 [17. 总结](https://blog.csdn.net/tianma2012/article/details/156360854)
 
+
+
 二. 系列视频
+
 [系列视频](https://www.bilibili.com/video/BV1SGzEBeEoH/?vd_source=28ba7751c6f03bc3c47fc2377e1bc424)
